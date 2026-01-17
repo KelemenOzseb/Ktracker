@@ -1,0 +1,24 @@
+# Node / Angular
+node_modules/
+www/
+dist/
+package-lock.json
+yarn.lock
+
+# Ionic / Capacitor
+ios/
+android/
+.capacitor/
+.build/
+
+# VS / Windows
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.vscode/
+Thumbs.db
+.DS_Store
+
+# Logok
+*.log
