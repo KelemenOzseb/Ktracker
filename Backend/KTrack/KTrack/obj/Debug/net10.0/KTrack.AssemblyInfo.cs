@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KTrack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71bebe2388127629c36a79a960b1a1e9d6b70a12")]
 [assembly: System.Reflection.AssemblyProductAttribute("KTrack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KTrack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

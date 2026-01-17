@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kelem\\Desktop\\MobilApp\\KTrack\\Entities\\Entities.csproj": {}
+    "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kelem\\Desktop\\MobilApp\\KTrack\\Entities\\Entities.csproj": {
+    "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kelem\\Desktop\\MobilApp\\KTrack\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\kelem\\Desktop\\MobilApp\\KTrack\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\kelem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kelem\\Desktop\\MobilApp\\KTrack\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

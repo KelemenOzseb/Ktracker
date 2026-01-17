@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kelem\\Desktop\\MobilApp\\KTrack\\KTrack\\KTrack.csproj": {}
+    "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\KTrack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kelem\\Desktop\\MobilApp\\KTrack\\KTrack\\KTrack.csproj": {
+    "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\KTrack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kelem\\Desktop\\MobilApp\\KTrack\\KTrack\\KTrack.csproj",
+        "projectUniqueName": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\KTrack.csproj",
         "projectName": "KTrack",
-        "projectPath": "C:\\Users\\kelem\\Desktop\\MobilApp\\KTrack\\KTrack\\KTrack.csproj",
+        "projectPath": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\KTrack.csproj",
         "packagesPath": "C:\\Users\\kelem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kelem\\Desktop\\MobilApp\\KTrack\\KTrack\\obj\\",
+        "outputPath": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

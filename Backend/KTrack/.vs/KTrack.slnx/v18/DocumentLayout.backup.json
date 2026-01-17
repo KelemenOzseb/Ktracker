@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kelem\\source\\repos\\KTrack\\",
+  "WorkspaceRootPath": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|c:\\users\\kelem\\source\\repos\\ktrack\\entities\\models\\userdailystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|solutionrelative:entities\\models\\userdailystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|c:\\users\\kelem\\source\\repos\\ktrack\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|solutionrelative:entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\userdailystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\userdailystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|c:\\users\\kelem\\source\\repos\\ktrack\\entities\\models\\macronutrients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|solutionrelative:entities\\models\\macronutrients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\bodyfatcircumwomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\bodyfatcircumwomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|c:\\users\\kelem\\source\\repos\\ktrack\\entities\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|solutionrelative:entities\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\bodyfatcircummen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\bodyfatcircummen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|c:\\users\\kelem\\source\\repos\\ktrack\\entities\\models\\bodyfatfromskinfolds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|solutionrelative:entities\\models\\bodyfatfromskinfolds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\bodyfatfromskinfolds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\bodyfatfromskinfolds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|c:\\users\\kelem\\source\\repos\\ktrack\\entities\\models\\bodyfatcircumwomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|solutionrelative:entities\\models\\bodyfatcircumwomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|c:\\users\\kelem\\source\\repos\\ktrack\\entities\\models\\bodyfatcircummen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|solutionrelative:entities\\models\\bodyfatcircummen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\macronutrients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\macronutrients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|c:\\users\\kelem\\source\\repos\\ktrack\\entities\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A477E4B-177D-4674-AC57-1372C0813102}|Entities\\Entities.csproj|solutionrelative:entities\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3628854D-BB5B-4BC0-84BF-C511FE2D22F6}|KTrack\\KTrack.csproj|c:\\users\\kelem\\source\\repos\\ktrack\\ktrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3628854D-BB5B-4BC0-84BF-C511FE2D22F6}|KTrack\\KTrack.csproj|solutionrelative:ktrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C4FCC16-279D-EBEA-1ECD-20740F450BC9}|KTrack\\KTrack.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\ktrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4FCC16-279D-EBEA-1ECD-20740F450BC9}|KTrack\\KTrack.csproj|solutionrelative:ktrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3628854D-BB5B-4BC0-84BF-C511FE2D22F6}|KTrack\\KTrack.csproj|c:\\users\\kelem\\source\\repos\\ktrack\\ktrack\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3628854D-BB5B-4BC0-84BF-C511FE2D22F6}|KTrack\\KTrack.csproj|solutionrelative:ktrack\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C4FCC16-279D-EBEA-1ECD-20740F450BC9}|KTrack\\KTrack.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\ktrack\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4FCC16-279D-EBEA-1ECD-20740F450BC9}|KTrack\\KTrack.csproj|solutionrelative:ktrack\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,106 +50,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserDailyStats.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\UserDailyStats.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\UserDailyStats.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\UserDailyStats.cs",
-              "ToolTip": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\UserDailyStats.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\UserDailyStats.cs",
               "RelativeToolTip": "Entities\\Models\\UserDailyStats.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:47:20.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:47:20.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "BodyFatCircumWomen.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\BodyFatCircumWomen.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatCircumWomen.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\BodyFatCircumWomen.cs",
-              "ToolTip": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\BodyFatCircumWomen.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatCircumWomen.cs",
               "RelativeToolTip": "Entities\\Models\\BodyFatCircumWomen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:46:16.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:46:16.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "BodyFatCircumMen.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\BodyFatCircumMen.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatCircumMen.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\BodyFatCircumMen.cs",
-              "ToolTip": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\BodyFatCircumMen.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatCircumMen.cs",
               "RelativeToolTip": "Entities\\Models\\BodyFatCircumMen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:46:00.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:46:00.023Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "BodyFatFromSkinfolds.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\BodyFatFromSkinfolds.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatFromSkinfolds.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\BodyFatFromSkinfolds.cs",
-              "ToolTip": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\BodyFatFromSkinfolds.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatFromSkinfolds.cs",
               "RelativeToolTip": "Entities\\Models\\BodyFatFromSkinfolds.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:45:39.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:45:39.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Activity.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Activity.cs",
+              "RelativeToolTip": "Entities\\Models\\Activity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:44:39.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Macronutrients.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Macronutrients.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Macronutrients.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Macronutrients.cs",
+              "RelativeToolTip": "Entities\\Models\\Macronutrients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:44:12.105Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Activity.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\Activity.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Activity.cs",
-              "ToolTip": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\Activity.cs",
-              "RelativeToolTip": "Entities\\Models\\Activity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:44:39.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Macronutrients.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\Macronutrients.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Macronutrients.cs",
-              "ToolTip": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\Macronutrients.cs",
-              "RelativeToolTip": "Entities\\Models\\Macronutrients.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:44:12.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Food.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\Food.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Food.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\Food.cs",
-              "ToolTip": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Food.cs",
               "RelativeToolTip": "Entities\\Models\\Food.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:43:39.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:43:39.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\User.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\kelem\\source\\repos\\KTrack\\Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\User.cs",
               "RelativeToolTip": "Entities\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,31 +153,25 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\source\\repos\\KTrack\\KTrack\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\Program.cs",
               "RelativeDocumentMoniker": "KTrack\\Program.cs",
-              "ToolTip": "C:\\Users\\kelem\\source\\repos\\KTrack\\KTrack\\Program.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\Program.cs",
               "RelativeToolTip": "KTrack\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:40:13.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:40:13.584Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\source\\repos\\KTrack\\KTrack\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "KTrack\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\kelem\\source\\repos\\KTrack\\KTrack\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "KTrack\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:39:16.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-01-17T14:39:16.114Z"
             }
           ]
         }
