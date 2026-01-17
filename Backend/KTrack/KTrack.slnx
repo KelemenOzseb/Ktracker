@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Data/Data.csproj" />
+  <Project Path="Entities/Entities.csproj" />
+  <Project Path="KTrack/KTrack.csproj" />
+  <Project Path="Logic/Logic.csproj" />
+</Solution>
