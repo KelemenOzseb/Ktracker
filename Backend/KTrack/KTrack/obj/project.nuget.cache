@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P2+oa0cI540=",
+  "dgSpecHash": "Q07eaXKRoPo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\KTrack.csproj",
+  "projectFilePath": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\KTrack\\KTrack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kelem\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
     "C:\\Users\\kelem\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
