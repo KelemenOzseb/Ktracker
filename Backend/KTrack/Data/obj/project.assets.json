@@ -702,6 +702,10 @@
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.9"
+        },
         "compile": {
           "bin/placeholder/Entities.dll": {}
         },

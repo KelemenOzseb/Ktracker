@@ -19,5 +19,9 @@ namespace Data
         public KTrackerDbContext(DbContextOptions<KTrackerDbContext> options) : base(options)
         {
         }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }

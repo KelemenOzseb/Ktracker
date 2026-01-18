@@ -1,0 +1,9 @@
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\Debug\net10.0\KTrack.csproj.AssemblyReference.cache
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\Debug\net10.0\KTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\Debug\net10.0\KTrack.AssemblyInfoInputs.cache
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\Debug\net10.0\KTrack.AssemblyInfo.cs
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\Debug\net10.0\KTrack.csproj.CoreCompileInputs.cache
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\Debug\net10.0\KTrack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\Debug\net10.0\KTrack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\Debug\net10.0\KTrack.sourcelink.json
