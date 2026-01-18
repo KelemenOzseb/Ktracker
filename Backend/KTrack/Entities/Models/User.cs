@@ -18,28 +18,28 @@ namespace Entities.Models
     }
     public class User : IIdentity
     {
-        public User(string userName, string email, string password, DateTime birthDate, int height, int weight, bool isFemale)
+        public User(string username, string email, string password, DateTime birthDate, int height, int weight, bool isFemale)
         {
             Id = Guid.NewGuid().ToString();
-            UserName = userName;
+            Username = username;
             Email = email;
             Password = password;
-            this.age = DateTime.Now.Year - birthDate.Year;
-            this.birthDate = birthDate;
-            this.height = height;
-            this.weight = weight;
-            this.isFemale = isFemale;
+            this.Age = DateTime.Now.Year - birthDate.Year;
+            this.BirthDate = birthDate;
+            this.Height = height;
+            this.Weight = weight;
+            this.IsFemale = isFemale;
         }
 
         public string Id { get; set; }
-        public string UserName { get; set; }
+        public string Username { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
-        public int age { get; set; }
-        public DateTime birthDate { get; set; }
-        public int height { get; set; }
-        public int weight { get; set; }
-        public bool isFemale { get; set; }
+        public int Age { get; set; }
+        public DateTime BirthDate { get; set; }
+        public int Height { get; set; }
+        public int Weight { get; set; }
+        public bool IsFemale { get; set; }
         public BodyFatCalculationMethod? PreferredBodyFatMethod { get; set; }
         public CalorieCalculationMethod? PreferredCalorieMethod { get; set; }
 

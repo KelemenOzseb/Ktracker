@@ -7,11 +7,11 @@ namespace Entities.Models
 {
     public class BodyFatFromSkinfolds : IIdentity
     {
-        public BodyFatFromSkinfolds(string userID, DateTime createdAt, double bodyFatPercentage, double bicepsSkinfold, double tricepsSkinfold, double scapularSkinfold, double hipSkinfold)
+        public BodyFatFromSkinfolds(string userId, double bodyFatPercentage, double bicepsSkinfold, double tricepsSkinfold, double scapularSkinfold, double hipSkinfold)
         {
             Id = Guid.NewGuid().ToString();
-            UserID = userID;
-            CreatedAt = createdAt;
+            UserId = userId;
+            CreatedAt = DateTime.Now;
             BodyFatPercentage = bodyFatPercentage;
             BicepsSkinfold = bicepsSkinfold;
             TricepsSkinfold = tricepsSkinfold;
@@ -20,7 +20,7 @@ namespace Entities.Models
         }
 
         public string Id { get; set; }
-        public string UserID { get; set; }
+        public string UserId { get; set; }
         public DateTime CreatedAt { get; set; }
         public double BodyFatPercentage { get; set; }
         public double BicepsSkinfold { get; set; }

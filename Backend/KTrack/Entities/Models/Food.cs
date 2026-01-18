@@ -7,13 +7,13 @@ namespace Entities.Models
 {
     public class Food : IIdentity
     {
-        public Food(string userID, string name, int calories, DateTime createdAt, bool isSaved)
+        public Food(string userID, string name, int calories, bool isSaved)
         {
             Id = Guid.NewGuid().ToString();
             UserID = userID;
             Name = name;
             Calories = calories;
-            CreatedAt = createdAt;
+            CreatedAt = DateTime.Now;
             IsSaved = isSaved;
         }
 

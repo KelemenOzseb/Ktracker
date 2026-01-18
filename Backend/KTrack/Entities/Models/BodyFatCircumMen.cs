@@ -7,18 +7,18 @@ namespace Entities.Models
 {
     public class BodyFatCircumMen : IIdentity
     {
-        public BodyFatCircumMen(string userID, DateTime createdAt, double bodyFatPercentage, double waistCircumference, double neckCircumference)
+        public BodyFatCircumMen(string userId, double bodyFatPercentage, double waistCircumference, double neckCircumference)
         {
             Id = Guid.NewGuid().ToString();
-            UserID = userID;
-            CreatedAt = createdAt;
+            UserId = userId;
+            CreatedAt = DateTime.Now;
             BodyFatPercentage = bodyFatPercentage;
             WaistCircumference = waistCircumference;
             NeckCircumference = neckCircumference;
         }
 
         public string Id { get; set; }
-        public string UserID { get; set; }
+        public string UserId { get; set; }
         public DateTime CreatedAt { get; set; }
         public double BodyFatPercentage { get; set; }
         public double WaistCircumference { get; set; }

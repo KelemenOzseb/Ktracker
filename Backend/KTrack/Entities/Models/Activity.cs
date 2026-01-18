@@ -7,11 +7,11 @@ namespace Entities.Models
 {
     public class Activity : IIdentity
     {
-        public Activity(string userID, DateTime createdAt, string name, bool isSaved, int calories)
+        public Activity(string userID, string name, bool isSaved, int calories)
         {
             Id = Guid.NewGuid().ToString();
             UserID = userID;
-            CreatedAt = createdAt;
+            CreatedAt = DateTime.Now;
             Name = name;
             IsSaved = isSaved;
             Calories = calories;

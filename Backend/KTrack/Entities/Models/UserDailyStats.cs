@@ -7,11 +7,11 @@ namespace Entities.Models
 {
     public class UserDailyStats : IIdentity
     {
-        public UserDailyStats(string userID, DateTime date, int totalCaloriesIntake, int totalBurntCalories, int summaryCalories, int weight, double bodyFatPercentage)
+        public UserDailyStats(string userID, int totalCaloriesIntake, int totalBurntCalories, int summaryCalories, int weight, double bodyFatPercentage)
         {
             Id = Guid.NewGuid().ToString();
             UserID = userID;
-            Date = date;
+            Date = DateOnly.FromDateTime(DateTime.UtcNow);
             TotalCaloriesIntake = totalCaloriesIntake;
             TotalBurntCalories = totalBurntCalories;
             SummaryCalories = summaryCalories;
@@ -21,7 +21,7 @@ namespace Entities.Models
 
         public string Id { get; set; }
         public string UserID { get; set; }
-        public DateTime Date { get; set; }
+        public DateOnly Date { get; set; }
         public int TotalCaloriesIntake { get; set; }
         public int TotalBurntCalories { get; set; }
         public int SummaryCalories { get; set; }
