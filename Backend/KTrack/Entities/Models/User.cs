@@ -1,10 +1,22 @@
-﻿using System;
+﻿using Entities.Helper;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Entities.Models
 {
-    public class User
+    public enum BodyFatCalculationMethod
+    {
+        UsNavy = 1,
+        DurninAndWomersley = 2,
+    }
+    public enum CalorieCalculationMethod
+    {
+        MullerWeight = 1,
+        MullerFFM = 2,
+        KatchMcArdle = 3
+    }
+    public class User : IIdentity
     {
         public User(string userName, string email, string password, DateTime birthDate, int height, int weight, bool isFemale)
         {
@@ -28,6 +40,8 @@ namespace Entities.Models
         public int height { get; set; }
         public int weight { get; set; }
         public bool isFemale { get; set; }
+        public BodyFatCalculationMethod? PreferredBodyFatMethod { get; set; }
+        public CalorieCalculationMethod? PreferredCalorieMethod { get; set; }
 
         public virtual ICollection<Activity> Activities { get; set; }
         public virtual ICollection<Food> Foods { get; set; }
