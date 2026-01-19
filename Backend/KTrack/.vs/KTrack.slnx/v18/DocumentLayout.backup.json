@@ -1,45 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\",
+  "WorkspaceRootPath": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\entityconfigurations\\activityconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entityconfigurations\\activityconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\entityconfigurations\\userdailystatsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entityconfigurations\\userdailystatsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\entityconfigurations\\userconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entityconfigurations\\userconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\entityconfigurations\\macronutrientsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entityconfigurations\\macronutrientsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\entityconfigurations\\foodconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entityconfigurations\\foodconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\entityconfigurations\\bodyfatfromskinfoldconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entityconfigurations\\bodyfatfromskinfoldconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\entityconfigurations\\bodyfatcircummenconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entityconfigurations\\bodyfatcircummenconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\data\\ktrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\ktrackerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\userdailystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\models\\userdailystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\userdailystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\bodyfatcircumwomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\bodyfatcircumwomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\bodyfatcircummen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\bodyfatcircummen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\bodyfatfromskinfolds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\bodyfatfromskinfolds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\macronutrients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\macronutrients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\models\\bodyfatcircummen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\bodyfatcircummen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\entities\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\models\\bodyfatcircumwomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\bodyfatcircumwomen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\models\\bodyfatfromskinfolds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\bodyfatfromskinfolds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4FCC16-279D-EBEA-1ECD-20740F450BC9}|KTrack\\KTrack.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\ktrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\models\\macronutrients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\models\\macronutrients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\entities\\helper\\iidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\helper\\iidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4FCC16-279D-EBEA-1ECD-20740F450BC9}|KTrack\\KTrack.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\ktrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4FCC16-279D-EBEA-1ECD-20740F450BC9}|KTrack\\KTrack.csproj|solutionrelative:ktrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4FCC16-279D-EBEA-1ECD-20740F450BC9}|KTrack\\KTrack.csproj|c:\\users\\kelem\\desktop\\ktracker\\backend\\ktrack\\ktrack\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4FCC16-279D-EBEA-1ECD-20740F450BC9}|KTrack\\KTrack.csproj|c:\\users\\kelem\\desktop\\krakennek\\krakennek\\ktracker\\backend\\ktrack\\ktrack\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4FCC16-279D-EBEA-1ECD-20740F450BC9}|KTrack\\KTrack.csproj|solutionrelative:ktrack\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,112 +94,266 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserDailyStats.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\UserDailyStats.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\UserDailyStats.cs",
-              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\UserDailyStats.cs",
-              "RelativeToolTip": "Entities\\Models\\UserDailyStats.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:47:20.221Z"
+              "Title": "Entities",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T18:23:57.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BodyFatCircumWomen.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatCircumWomen.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\BodyFatCircumWomen.cs",
-              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatCircumWomen.cs",
-              "RelativeToolTip": "Entities\\Models\\BodyFatCircumWomen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Title": "UserDailyStatsConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\UserDailyStatsConfigurations.cs",
+              "RelativeDocumentMoniker": "Entities\\EntityConfigurations\\UserDailyStatsConfigurations.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\UserDailyStatsConfigurations.cs",
+              "RelativeToolTip": "Entities\\EntityConfigurations\\UserDailyStatsConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:46:16.797Z"
+              "WhenOpened": "2026-01-18T18:18:09.518Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BodyFatCircumMen.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatCircumMen.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\BodyFatCircumMen.cs",
-              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatCircumMen.cs",
-              "RelativeToolTip": "Entities\\Models\\BodyFatCircumMen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Title": "UserConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\UserConfigurations.cs",
+              "RelativeDocumentMoniker": "Entities\\EntityConfigurations\\UserConfigurations.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\UserConfigurations.cs",
+              "RelativeToolTip": "Entities\\EntityConfigurations\\UserConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:46:00.023Z"
+              "WhenOpened": "2026-01-18T18:17:56.89Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BodyFatFromSkinfolds.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatFromSkinfolds.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\BodyFatFromSkinfolds.cs",
-              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatFromSkinfolds.cs",
-              "RelativeToolTip": "Entities\\Models\\BodyFatFromSkinfolds.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Title": "MacronutrientsConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\MacronutrientsConfigurations.cs",
+              "RelativeDocumentMoniker": "Entities\\EntityConfigurations\\MacronutrientsConfigurations.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\MacronutrientsConfigurations.cs",
+              "RelativeToolTip": "Entities\\EntityConfigurations\\MacronutrientsConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:45:39.862Z"
+              "WhenOpened": "2026-01-18T18:17:46.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Activity.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Activity.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Activity.cs",
-              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Activity.cs",
-              "RelativeToolTip": "Entities\\Models\\Activity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Title": "FoodConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\FoodConfigurations.cs",
+              "RelativeDocumentMoniker": "Entities\\EntityConfigurations\\FoodConfigurations.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\FoodConfigurations.cs",
+              "RelativeToolTip": "Entities\\EntityConfigurations\\FoodConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:44:39.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Macronutrients.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Macronutrients.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Macronutrients.cs",
-              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Macronutrients.cs",
-              "RelativeToolTip": "Entities\\Models\\Macronutrients.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:44:12.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Food.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Food.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Food.cs",
-              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Food.cs",
-              "RelativeToolTip": "Entities\\Models\\Food.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:43:39.126Z"
+              "WhenOpened": "2026-01-18T18:17:22.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ActivityConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\ActivityConfigurations.cs",
+              "RelativeDocumentMoniker": "Entities\\EntityConfigurations\\ActivityConfigurations.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\ActivityConfigurations.cs*",
+              "RelativeToolTip": "Entities\\EntityConfigurations\\ActivityConfigurations.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T18:16:12.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BodyFatFromSkinfoldConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\BodyFatFromSkinfoldConfigurations.cs",
+              "RelativeDocumentMoniker": "Entities\\EntityConfigurations\\BodyFatFromSkinfoldConfigurations.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\BodyFatFromSkinfoldConfigurations.cs",
+              "RelativeToolTip": "Entities\\EntityConfigurations\\BodyFatFromSkinfoldConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T18:17:10.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BodyFatCircumMenConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\BodyFatCircumMenConfigurations.cs",
+              "RelativeDocumentMoniker": "Entities\\EntityConfigurations\\BodyFatCircumMenConfigurations.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\EntityConfigurations\\BodyFatCircumMenConfigurations.cs",
+              "RelativeToolTip": "Entities\\EntityConfigurations\\BodyFatCircumMenConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T18:16:44.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-18T17:56:14.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KTrackerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Data\\KTrackerDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\KTrackerDbContext.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Data\\KTrackerDbContext.cs*",
+              "RelativeToolTip": "Data\\KTrackerDbContext.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:56:37.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BodyFatCircumWomen.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatCircumWomen.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\BodyFatCircumWomen.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatCircumWomen.cs",
+              "RelativeToolTip": "Entities\\Models\\BodyFatCircumWomen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:46:16.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BodyFatCircumMen.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatCircumMen.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\BodyFatCircumMen.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatCircumMen.cs",
+              "RelativeToolTip": "Entities\\Models\\BodyFatCircumMen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:46:00.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BodyFatFromSkinfolds.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatFromSkinfolds.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\BodyFatFromSkinfolds.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\BodyFatFromSkinfolds.cs",
+              "RelativeToolTip": "Entities\\Models\\BodyFatFromSkinfolds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:45:39.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Activity.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Activity.cs",
+              "RelativeToolTip": "Entities\\Models\\Activity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:44:39.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Food.cs",
+              "RelativeToolTip": "Entities\\Models\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:43:39.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Macronutrients.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Macronutrients.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Macronutrients.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\Macronutrients.cs",
+              "RelativeToolTip": "Entities\\Models\\Macronutrients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:44:12.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\User.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\User.cs",
               "RelativeToolTip": "Entities\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T14:43:27.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "UserDailyStats.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\UserDailyStats.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\UserDailyStats.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Models\\UserDailyStats.cs",
+              "RelativeToolTip": "Entities\\Models\\UserDailyStats.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:47:20.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Helper\\IIdentity.cs",
+              "RelativeDocumentMoniker": "Entities\\Helper\\IIdentity.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\Entities\\Helper\\IIdentity.cs",
+              "RelativeToolTip": "Entities\\Helper\\IIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:53:48.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\KTrack\\Program.cs",
               "RelativeDocumentMoniker": "KTrack\\Program.cs",
-              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\Program.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\KTrack\\Program.cs",
               "RelativeToolTip": "KTrack\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,11 +361,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\KTrack\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "KTrack\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\kelem\\Desktop\\Ktracker\\Backend\\KTrack\\KTrack\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\kelem\\Desktop\\Krakennek\\Krakennek\\Ktracker\\Backend\\KTrack\\KTrack\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "KTrack\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

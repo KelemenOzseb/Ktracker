@@ -1,4 +1,7 @@
 
+using Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace KTrack
 {
     public class Program
@@ -12,6 +15,10 @@ namespace KTrack
             builder.Services.AddControllers();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
+
+            builder.Services.AddDbContext<KTrackerDbContext>(options =>
+              options.UseSqlServer(builder.Configuration["db:conn"]));
+            
 
             var app = builder.Build();
 
