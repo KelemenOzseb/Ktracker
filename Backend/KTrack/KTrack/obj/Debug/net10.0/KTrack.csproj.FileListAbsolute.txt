@@ -20,7 +20,6 @@ C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\De
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Azure.Identity.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Humanizer.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Microsoft.Build.Locator.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
@@ -48,18 +47,6 @@ C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\De
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Mono.TextTemplating.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Namotion.Reflection.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Newtonsoft.Json.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\NJsonSchema.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\NJsonSchema.Annotations.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\NJsonSchema.NewtonsoftJson.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\NJsonSchema.Yaml.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\NSwag.Annotations.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\NSwag.AspNetCore.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\NSwag.Core.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\NSwag.Core.Yaml.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\NSwag.Generation.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\NSwag.Generation.AspNetCore.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\System.ClientModel.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\System.CodeDom.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\System.Composition.AttributedModel.dll
@@ -75,7 +62,6 @@ C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\De
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\System.Security.Permissions.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\System.Windows.Extensions.dll
-C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\YamlDotNet.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -175,3 +161,7 @@ C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\De
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\Debug\net10.0\KTrack.pdb
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\Debug\net10.0\KTrack.genruntimeconfig.cache
 C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\obj\Debug\net10.0\ref\KTrack.dll
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kelem\Desktop\Krakennek\Krakennek\Ktracker\Backend\KTrack\KTrack\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

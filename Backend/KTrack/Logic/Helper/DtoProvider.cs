@@ -17,10 +17,14 @@ namespace Logic.Helper
         public DtoProvider(UserManager<User> userManager)
         {
             this.UserManager = userManager;
-            var Config = new MapperConfiguration(cfg =>
+            var config = new MapperConfiguration(cfg =>
             {
                 cfg.CreateMap<User, UserViewDto>();
+                cfg.CreateMap<RegistrationDto, User>()
+                .ForMember(dest => dest.PasswordHash, opt => opt.Ignore())
+                .ForMember(dest => dest.UserName, opt => opt.MapFrom(src => src.UserName));
             });
+            Mapper = new Mapper(config);
         }
     }
 }
