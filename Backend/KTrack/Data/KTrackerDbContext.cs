@@ -3,10 +3,11 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using Entities.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace Data
 {
-    public class KTrackerDbContext : DbContext
+    public class KTrackerDbContext : IdentityDbContext
     {
         public DbSet<User> Users { get; set; }
         public DbSet<Activity> Activities { get; set; }
