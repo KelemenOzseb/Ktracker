@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using Entities.Models;
+using Entities.Dtos.User;
 
 namespace Logic.Helper
 {
@@ -16,10 +17,10 @@ namespace Logic.Helper
         public DtoProvider(UserManager<User> userManager)
         {
             this.UserManager = userManager;
-            //var Config = new MapperConfiguration(cfg =>
-            //{
-            //    cfg.CreateMap<>();
-            //});
+            var Config = new MapperConfiguration(cfg =>
+            {
+                cfg.CreateMap<User, UserViewDto>();
+            });
         }
     }
 }
