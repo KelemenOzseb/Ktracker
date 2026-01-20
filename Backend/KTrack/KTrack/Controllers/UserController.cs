@@ -2,6 +2,7 @@
 using Entities.Dtos.User;
 using Entities.Models;
 using Logic.Helper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
@@ -12,6 +13,8 @@ using System.Text.RegularExpressions;
 
 namespace KTrack.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]")]
     public class UserController : ControllerBase
     {
         UserManager<User> userManager;
@@ -27,6 +30,20 @@ namespace KTrack.Controllers
             return Regex.IsMatch(email, pattern, RegexOptions.IgnoreCase);
         }
 
+        private JwtSecurityToken GenerateAccessToken(IEnumerable<Claim>? claims, int expiryInMinutes)
+        {
+            var signinKey = new SymmetricSecurityKey(
+                  Encoding.UTF8.GetBytes("NagyonhosszútitkosítókulcsNagyonhosszútitkosítókulcsNagyonhosszútitkosítókulcsNagyonhosszútitkosítókulcsNagyonhosszútitkosítókulcsNagyonhosszútitkosítókulcs"));
+
+            return new JwtSecurityToken(
+                  issuer: "KTracker.com",
+                  audience: "KTracker.com",
+                  claims: claims?.ToArray(),
+                  expires: DateTime.Now.AddMinutes(expiryInMinutes),
+                  signingCredentials: new SigningCredentials(signinKey, SecurityAlgorithms.HmacSha256)
+                );
+        }
+
         [HttpPost("Register")]
         public async Task RegisterUser(RegistrationDto dto)
         {
@@ -40,7 +57,7 @@ namespace KTrack.Controllers
 
             await userManager.CreateAsync(dtoProvider.Mapper.Map<User>(dto), dto.Password);
         }
-        [HttpPost("login")]
+        [HttpPost("Login")]
         public async Task<IActionResult> Login(LoginDto dto)
         {
             if (string.IsNullOrEmpty(dto.UserName) && string.IsNullOrEmpty(dto.Email))
@@ -86,19 +103,33 @@ namespace KTrack.Controllers
             }
         }
 
-        private JwtSecurityToken GenerateAccessToken(IEnumerable<Claim>? claims, int expiryInMinutes)
+        [Authorize]
+        [HttpGet("GetUserDatas")]
+        public async Task<ActionResult<UserViewDto>> GetMe()
         {
-            var signinKey = new SymmetricSecurityKey(
-                  Encoding.UTF8.GetBytes("NagyonhosszútitkosítókulcsNagyonhosszútitkosítókulcsNagyonhosszútitkosítókulcsNagyonhosszútitkosítókulcsNagyonhosszútitkosítókulcsNagyonhosszútitkosítókulcs"));
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
 
-            return new JwtSecurityToken(
-                  issuer: "movieclub.com",
-                  audience: "movieclub.com",
-                  claims: claims?.ToArray(),
-                  expires: DateTime.Now.AddMinutes(expiryInMinutes),
-                  signingCredentials: new SigningCredentials(signinKey, SecurityAlgorithms.HmacSha256)
-                );
+            var user = await userManager.FindByIdAsync(userId);
+            if (user == null)
+                return Unauthorized();
+
+            return dtoProvider.Mapper.Map<UserViewDto>(user);
         }
 
+        [Authorize]
+        [HttpPut("me")]
+        public async Task<IActionResult> UpdateMe(UpdateUserDto dto)
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var user = await userManager.FindByIdAsync(userId);
+
+            if (user == null)
+                return Unauthorized();
+
+            dtoProvider.Mapper.Map(dto, user);
+
+            await userManager.UpdateAsync(user);
+            return Ok();
+        }
     }
 }

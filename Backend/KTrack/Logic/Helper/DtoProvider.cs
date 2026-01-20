@@ -23,6 +23,15 @@ namespace Logic.Helper
                 cfg.CreateMap<RegistrationDto, User>()
                 .ForMember(dest => dest.PasswordHash, opt => opt.Ignore())
                 .ForMember(dest => dest.UserName, opt => opt.MapFrom(src => src.UserName));
+                cfg.CreateMap<UpdateUserDto, User>()
+                .AfterMap((src, dest) =>
+                {
+                    if (!string.IsNullOrEmpty(src.Password))
+                    {
+                        var passwordHasher = new PasswordHasher<User>();
+                        dest.PasswordHash = passwordHasher.HashPassword(dest, src.Password);
+                    }
+                });
             });
             Mapper = new Mapper(config);
         }
